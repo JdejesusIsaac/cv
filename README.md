@@ -1,4 +1,4 @@
-# cv<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -24,7 +24,6 @@
   </body>
 </html>
 
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -36,8 +35,7 @@
 <body>
   <h3>Hobbies</h3>
   <ol>
-    <li>Competitive Basketball</li>
-    <li><a href="https://www.youtube.com/watch?v=RcYjXbSJBN8">Joe Rogan Interviews</a></li>
+    <li>Competitive Basketball</li>    <li><a href="https://www.youtube.com/watch?v=RcYjXbSJBN8">Joe Rogan Interviews</a></li>
     <li>Call of Duty</li>
     <li>Udemy.com with Angela Yu</li>
   </ol>

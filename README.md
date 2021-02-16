@@ -12,4 +12,4 @@ I got into tech with the same passion I had for basketball. I didn't skip a step
 I need some real world experience, I'm ready to put in pain with a dedicated team who love their craft as much as I do.   
  
 
-I need some friends who share the same interest and love basketball as much as me. I'm just annoying to my guys that don’t know tech.
+I need some friends who share the same interest and love sports and video games  as much as me. I'm just annoying to my guys that don’t know tech. If I'm not watching Jre, I'm listening to naval for financial and spiritual advice .

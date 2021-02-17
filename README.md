@@ -1,6 +1,6 @@
 
 
-I’m Juan, I love Basketball because it made me who I am today. Highbridge Rec. is what I call my Church, Dykman park is my colosseum. I thank basketball for many things; for keeping me stubborn and always learning. Most importantly, keeping me out of jail.
+I’m Juan, I love Basketball because it made me who I am today. Highbridge Rec. is what I call my Church, Dykman park is my colosseum. I thank basketball for many things; for keeping me stubborn and always learning. Most importantly, keeping me humble.
  
 “Sticking to the fundamentals you can learn anything.”
  
